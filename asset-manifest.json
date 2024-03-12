@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-passgen/static/css/main.bfce991a.css",
+    "main.js": "/react-passgen/static/js/main.7aa995bf.js",
+    "index.html": "/react-passgen/index.html",
+    "main.bfce991a.css.map": "/react-passgen/static/css/main.bfce991a.css.map",
+    "main.7aa995bf.js.map": "/react-passgen/static/js/main.7aa995bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfce991a.css",
+    "static/js/main.7aa995bf.js"
+  ]
+}
