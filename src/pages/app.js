@@ -58,7 +58,6 @@ function App() {
             Сгенерировать
           </button>
         </div>
-        <div className={Style.Logo}>DANKO</div>
     </div>
   );
 }

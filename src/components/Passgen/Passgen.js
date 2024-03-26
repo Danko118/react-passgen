@@ -37,13 +37,13 @@ const Passgen = ({
                 className={(warning)? Style.warning : ""}
                 checked={isLower}
                 onClick={setLower}
-                title={"Большие Буквы"}
+                title={"Маленькие Буквы"}
             />
             <Checkbox
                 className={(warning)? Style.warning : ""}
                 checked={isUpper}
                 onClick={setUpper}
-                title={"Маленькие Буквы"}
+                title={"Большие Буквы"}
             />
             <Checkbox
                 className={(warning)? Style.warning : ""}
